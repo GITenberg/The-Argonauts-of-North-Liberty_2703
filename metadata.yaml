@@ -1,0 +1,31 @@
+_repo: The-Argonauts-of-North-Liberty_2703
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Harte, Bret
+    alias: Harte, Francis Bret
+    birthdate: 1836
+    deathdate: 1902
+    gutenberg_agent_id: '593'
+    url: http://www.gutenberg.org/2009/agents/593
+    wikipedia: http://en.wikipedia.org/wiki/Bret_Harte
+description: The bell of the North Liberty Second Presbyterian Church had just ceased
+  ringing. North Liberty, Connecticut, never on any day a cheerful town, was always
+  bleaker and more cheerless, this 1888 tale of intrigue begins about a small town
+  full of pious church-goers.
+gutenberg_issued: '2006-05-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '2703'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'American fiction -- 19th century'
+- !lcc 'PS'
+- !lcsh 'Frontier and pioneer life -- California -- Fiction'
+- !lcsh 'California -- History -- 1846-1850 -- Fiction'
+- GITenberg
+title: The Argonauts of North Liberty
+url: http://www.gutenberg.org/ebooks/2703
