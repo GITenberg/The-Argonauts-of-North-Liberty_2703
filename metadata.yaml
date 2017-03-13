@@ -1,5 +1,8 @@
 _repo: The-Argonauts-of-North-Liberty_2703
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Harte, Bret
@@ -13,6 +16,8 @@ description: The bell of the North Liberty Second Presbyterian Church had just c
   ringing. North Liberty, Connecticut, never on any day a cheerful town, was always
   bleaker and more cheerless, this 1888 tale of intrigue begins about a small town
   full of pious church-goers.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/2703#The-Argonauts-of-North-Liberty
 gutenberg_issued: '2006-05-25'
 gutenberg_type: Text
 identifiers:
